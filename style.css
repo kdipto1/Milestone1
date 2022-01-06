@@ -1,0 +1,30 @@
+body{
+  font-family: 'poppins', sans-serif;
+}
+.first-section{
+  display: flex;
+}
+.first-section left-side {
+  width: 60%;
+}
+.header-side{
+  width: 50%;
+}
+.header-side img{
+ width: 60%;
+}
+.orange{
+  color: orange;
+}
+.header{
+  padding-left: 20px;
+  border-left: 5px solid orange;
+}
+.button{
+  padding: 10px 40px;
+  border-radius: 5px;
+  border-color: tomato;
+  color: white;
+  background-color: tomato;
+  margin-bottom: 20px;
+}
