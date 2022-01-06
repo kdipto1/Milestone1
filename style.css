@@ -11,7 +11,7 @@ body{
 }
 .header-side img{
  width: 50%;
- padding-left: 300px;
+ padding-left: 200px;
 }
 .orange{
   color: orange;
@@ -20,6 +20,7 @@ body{
   padding-left: 20px;
   border-left: 5px solid orange;
   border-radius: 5px;
+  font-size: 20px;
 }
 .button{
   padding: 10px 40px;
@@ -36,6 +37,7 @@ body{
 
 .second-section h2{
   text-align: center;
+  font-size: 40px;
 }
 .boxs{
   display: flex;
@@ -75,6 +77,9 @@ width: 141px;
   display: flex;
   margin-bottom: 50px;
 }
+.third-section h2{
+  font-size: 30px;
+}
 .third-section img{
   width: 400px;
   padding-right: 50px;
@@ -84,6 +89,9 @@ width: 141px;
 .fourth-section{
   display: flex;
   margin-bottom: 50px;
+}
+.fourth-section h2{
+  font-size: 30px;
 }
 .fourth-section img{
   width: 400px;
