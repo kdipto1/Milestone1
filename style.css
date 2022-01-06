@@ -5,12 +5,12 @@ body{
   display: flex;
   margin-bottom: 50px;
 }
-
 .header-side{
-  width: 50%;
+  width: 100%;
 }
 .header-side img{
- width: 60%;
+ width: 50%;
+ padding-left: 300px;
 }
 .orange{
   color: orange;
@@ -31,12 +31,14 @@ body{
   padding-right: 200px;
 }
 /*first section style end*/
+
 .second-section h2{
   text-align: center;
 }
 .boxs{
   display: flex;
   justify-content: space-around;
+  margin-bottom: 50px;
 }
 .box1{
   width: 25%;
@@ -52,7 +54,6 @@ width: 141px;
   background-color: #ff59593d;
   padding: 20px;
   border-radius: 20px;
-
 }
 .box2 img{
 width: 141px;
@@ -62,9 +63,50 @@ width: 141px;
   background-color: #FFF4D6;
   padding: 20px;
   border-radius: 20px;
-
 }
 .box3 img{
 width: 141px;
 }
 /*second section style end*/
+
+.third-section{
+  display: flex;
+  margin-bottom: 50px;
+}
+.third-section img{
+  width: 400px;
+  padding-right: 50px;
+}
+/*third-section style end*/
+
+.fourth-section{
+  display: flex;
+  margin-bottom: 50px;
+}
+.fourth-section img{
+  width: 400px;
+}
+.fourth-section p{
+  padding-right: 50px;
+}
+/*fourth section style end*/
+
+
+
+footer h3{
+ text-align: center;
+ color: white;
+ font-style: italic;
+}
+.tomato{
+  color: tomato;
+}
+footer p{
+  text-align: center;
+  color: white;
+}
+footer{
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
