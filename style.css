@@ -1,8 +1,6 @@
 body{
   font-family: 'poppins', sans-serif;
   overflow-x: hidden;
-  margin: 0%;
-  padding: 0%;
 }
 .first-section{
   display: flex;
@@ -103,8 +101,42 @@ width: 141px;
 }
 /*fourth section style end*/
 
+.fivth-section{
+  margin-bottom: 50px;
+}
+.fivth-section h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+#html{
+  font-size: 50px;
+}
+.html{
+  font-weight: 700;
+  font-size: 40px;
+  color: white;
+  background-color: tomato;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+.htmls{
+  margin-bottom: 20px;
+}
+#css{
+  font-size: 50px;
+}
+.css{
+  font-size: 40px;
+  font-weight: 700;
+  color: white;
+  background-color: tomato;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
 
 
+/*fivth section style end*/
 footer h3{
  text-align: center;
  color: white;
